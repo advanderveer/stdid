@@ -1,0 +1,7 @@
+{
+    "editor.inlayHints.enabled": "offUnlessPressed",
+    "zig.path": "zig",
+    "zig.zls.path": "zls",
+    "zig.zls.enableBuildOnSave": true,
+    "zig.zls.buildOnSaveStep": "test"
+}
